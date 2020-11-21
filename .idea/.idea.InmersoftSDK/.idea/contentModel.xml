@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Inmersoft_Programer\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Inmersoft_Programer\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_InmersoftSDK.-1671124736.00" t="ExcludeRecursive" />
+    <e p="D:\INMERSOFT\PROYECTS\InmersoftSDK" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="InmersoftSDK" t="Include">
+          <e p="AnimatorEndEvent" t="Include">
+            <e p="AnimatorEndEvent.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AssetsImport" t="Include">
+              <e p="SpriteProccessor.cs" t="Include" />
+            </e>
+            <e p="ChangeLog" t="Include">
+              <e p="ChangeLog.cs" t="Include" />
+            </e>
+            <e p="PreBuildSettings" t="Include">
+              <e p="PreBuildSettings.cs" t="Include" />
+            </e>
+          </e>
+          <e p="InmersoftSDKVersion.cs" t="Include" />
+          <e p="IO" t="Include">
+            <e p="JSONFile.cs" t="Include" />
+          </e>
+          <e p="Localization" t="Include">
+            <e p="Editor" t="Include">
+              <e p="CreateStandardLocale.cs" t="Include" />
+            </e>
+            <e p="GoogleTranslation.cs" t="Include" />
+            <e p="HttpUtility.cs" t="Include" />
+            <e p="L18N.cs" t="Include" />
+            <e p="Locale.cs" t="Include" />
+            <e p="SimpleJSON" t="Include">
+              <e p="SimpleJSON.cs" t="Include" />
+              <e p="SimpleJSONBinary.cs" t="Include" />
+              <e p="SimpleJSONUnity.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SceneTransition" t="Include">
+            <e p="SceneTransition.cs" t="Include" />
+            <e p="Transition.cs" t="Include" />
+          </e>
+          <e p="ScreenWakeLock" t="Include">
+            <e p="ScreenWakeLock.cs" t="Include" />
+          </e>
+          <e p="Singleton" t="Include">
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="TimeKeeper" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Kernel" t="Include">
+                <e p="FileIO.cs" t="Include" />
+                <e p="TimeKeeper.cs" t="Include" />
+                <e p="TimeKeeperConstants.cs" t="Include" />
+                <e p="TimeKeeperGUISkin.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TestX.cs" t="Include" />
+      </e>
+      <e p="InmersoftSDK.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

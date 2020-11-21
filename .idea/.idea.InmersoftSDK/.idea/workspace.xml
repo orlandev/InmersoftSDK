@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="083b428a-1f98-4ce8-bac7-1b7e361ff3a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/GoogleTranslation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/TimeKeeper/Editor/Kernel/TimeKeeperConstants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/HttpUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Editor/CreateStandardLocale.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Locale.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/L18N.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/TimeKeeper/Editor/Kernel/TimeKeeper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/ScreenWakeLock/ScreenWakeLock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSONBinary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSONUnity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Editor/PreBuildSettings/PreBuildSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/AnimatorEndEvent/AnimatorEndEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/Singleton/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TestX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/SceneTransition/Transition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/SceneTransition/SceneTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InmersoftSDK/InmersoftSDKVersion.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/JsonFileController.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/Editor/GoogleTranslation.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/GoogleTranslation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/L18N/EN.txt" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Locale.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/HttpUtility.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Editor/SimpleJSON/SimpleJSON.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Editor/GoogleTranslation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeKeeper/Editor/Kernel/TimeKeeper.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/Editor/InmersoftChangeLog/ChangeLog.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/JSONFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/JsonFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/GoogleTranslation.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeKeeper/Editor/Kernel/TimeKeeperGUISkin.cs" />
+        <option value="$PROJECT_DIR$/Assets/TimeKeeper/Editor/Kernel/TimeKeeperConstants.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/Editor/ChangeLog/ChangeLog.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/IO/JsonFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/SceneTransition/Transition.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/SceneTransition/SceneTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Kernel/Editor/PreBuildSettings/PreBuildSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/AnimatorEndEvent/AnimatorEndEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/ScreenWakeLock/ScreenWakeLock.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Singleton/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/SceneTransition/Transition.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/SceneTransition/SceneTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/L18N.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSONUnity.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSONBinary.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/SimpleJSON/SimpleJSON.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Localization/Editor/CreateStandardLocale.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/TimeKeeper/Editor/Kernel/TimeKeeperConstants.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Editor/PreBuildSettings/PreBuildSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/Version.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/AssetsImport/AssetsSpriteImport.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/AssetsImport/SpriteProccessor.cs" />
+        <option value="$PROJECT_DIR$/Assets/InmersoftSDK/InmersoftSDKVersion.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f9ThY2gLxHfSVE4NX4jLtEjlox" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="287" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1597591348554">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="528" y="287" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1536.834@0.0.1536.834" timestamp="1597591348554" />
+  </component>
+</project>
